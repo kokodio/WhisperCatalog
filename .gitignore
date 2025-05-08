@@ -41,3 +41,4 @@ x86/
 *.orig
 *.rej
 *.bin
+*.wav
